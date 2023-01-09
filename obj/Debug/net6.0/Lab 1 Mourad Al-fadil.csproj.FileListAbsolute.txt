@@ -1,0 +1,15 @@
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\bin\Debug\net6.0\Lab 1 Mourad Al-fadil.exe
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\bin\Debug\net6.0\Lab 1 Mourad Al-fadil.deps.json
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\bin\Debug\net6.0\Lab 1 Mourad Al-fadil.runtimeconfig.json
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\bin\Debug\net6.0\Lab 1 Mourad Al-fadil.dll
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\bin\Debug\net6.0\Lab 1 Mourad Al-fadil.pdb
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.csproj.AssemblyReference.cache
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.AssemblyInfoInputs.cache
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.AssemblyInfo.cs
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.dll
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\refint\Lab 1 Mourad Al-fadil.dll
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.pdb
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\Lab 1 Mourad Al-fadil.genruntimeconfig.cache
+C:\Users\Mourad\source\repos\Lab 1 Mourad Al-fadil\Lab 1 Mourad Al-fadil\obj\Debug\net6.0\ref\Lab 1 Mourad Al-fadil.dll
