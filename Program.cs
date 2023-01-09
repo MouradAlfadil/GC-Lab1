@@ -25,11 +25,11 @@ internal class Program
         {
             Console.WriteLine("The room is classified as small.");
         }
-        if (area < 650 && area > 250)
+        else if (area < 650 && area > 250)
         {
             Console.WriteLine("The room is classified as medium.");
         }
-        if (area >= 650)
+        else
         {
             Console.WriteLine("The room is classified as large.");
         }
