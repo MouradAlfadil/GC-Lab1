@@ -19,7 +19,7 @@ internal class Program
         Console.WriteLine("The perimeter of the room is " + perimeter + ". The area of the room is " + area + ".");
         //calculating and displaying the volume and surface areas of the room 
         double volume = length * width * height;
-        double surarea = 2 * (width * length + height * length + height * width);
+        double surarea = 2 * ((width * length) + (height * length) + (height * width));
         Console.WriteLine("The volume of the room is " + volume + ". The surface area of the room is " + surarea + ".");
         if (area <= 250 && area > 0)
         {
